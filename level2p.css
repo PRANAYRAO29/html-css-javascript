@@ -1,0 +1,40 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    color:white;
+
+}
+#navbar{
+    height:60px;
+    background-color: #0f1111;
+  
+}
+button{
+    background-color: #f08804;
+}
+#logo{
+    color:#f08804;
+    font-size: 25pxS;
+    padding-right: 200px;
+}
+a{
+    margin-right: 200px;
+}
+.contentbox{
+height:100px;
+width:100px;
+display:inline-block;
+border:3px solid black;
+background-image: url(img.jpg.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+footer{
+    color:white;
+    background-color:#0f1111;
+    text-align: center;
+}
+#content{
+    height:680px;
+}

@@ -1,0 +1,12 @@
+#box{
+    background-color: blue;
+}
+.heading{
+    color: red;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: arial;
+}
